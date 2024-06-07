@@ -4,13 +4,8 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+My name is Ash AKA 毕真. Currently doing uni with cyber security. I enjoy video games, from YuGiOh to Dota2, from Baba is you to Florence... Sometimes I read a book, if the book finds me. 
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I born in China, got my first PC when I was young, liked and still like the content I can find on internet. I do like exploring, that is why I came to Australia and as for now, I do enjoy my life as an international student. 
