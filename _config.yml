@@ -20,7 +20,7 @@ author: Ash
 ###############################################
 
 navbar-links:
-  About Me: "I am Ash, an uni student who major in cyber security."
+  About Me: "/aboutme.md"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
