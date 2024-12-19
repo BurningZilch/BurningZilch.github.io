@@ -10,8 +10,7 @@ author: Ash
 ---
 I just made this for my university assignment, a simulation project that analyzes how BLE jamming affects machine learning models trained to process BLE data. Using MATLAB, I built and evaluated models that demonstrate the impact of interference. I will go through the development process of this project in this blog.
 
-[This is the github page of the project.]
-(https://github.com/BurningZilch/BLE-jamming-simulation)
+[This is the github page of the project.](https://github.com/BurningZilch/BLE-jamming-simulation)
 
 ## **Project Overview**
 
@@ -48,15 +47,15 @@ At this stage, I simplified the setup to calculate RSSI values **without noise o
 
 After proving the concept worked, I refined the simulation to make it more realistic:
 
-1. **Adding Noise and Jamming**:  
+**Adding Noise and Jamming**:  
    I integrated interference signals into the connection channel to simulate **jamming interference**. This required creating a jammer class that added controlled noise to the BLE waveform.
 
 ![BLEattack](/assets/img/BLEattack.png)
-2. **Realistic RSSI Calculations**:  
+**Realistic RSSI Calculations**:  
    I updated the RSSI calculations to include real-world factors like environmental noise, signal reflections, and fading. This made the simulation results closer to what BLE devices experience in practice.
 
 ![resultwave](/assets/img/resultwave.png)
-3. **Improved Model Training**:  
+**Improved Model Training**:  
    With the updated dataset, I trained a **Convolutional Neural Network (CNN)** in addition to the RF model. The CNN was designed to capture more intricate patterns in the BLE data, making it potentially more resilient to interference. Due to the time limit, the ML model did not works well, but the experiment still shows the potential for affect ML using simulations BLE with jamming interference 
 
 ![result3d](/assets/img/result3d.png)
