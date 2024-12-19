@@ -50,10 +50,12 @@ After proving the concept worked, I refined the simulation to make it more reali
    I integrated interference signals into the connection channel to simulate **jamming interference**. This required creating a jammer class that added controlled noise to the BLE waveform.
 
 ![BLEattack](/assets/img/BLEattack.png)
+
 **Realistic RSSI Calculations**:  
    I updated the RSSI calculations to include real-world factors like environmental noise, signal reflections, and fading. This made the simulation results closer to what BLE devices experience in practice.
 
 ![resultwave](/assets/img/resultwave.png)
+
 **Improved Model Training**:  
    With the updated dataset, I trained a **Convolutional Neural Network (CNN)** in addition to the RF model. The CNN was designed to capture more intricate patterns in the BLE data, making it potentially more resilient to interference. Due to the time limit, the ML model did not works well, but the experiment still shows the potential for affect ML using simulations BLE with jamming interference 
 
