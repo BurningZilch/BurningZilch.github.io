@@ -4,10 +4,7 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Ash AKA 毕真. Currently doing uni with cyber security. I enjoy video games, from YuGiOh to Dota2, from Baba is you to Florence... Sometimes I read a book, if the book finds me. 
-
-Here should be a photo of me, after I found a nice photo of myself.
-just wait for that.
+My name is Ash AKA 毕真. Just graduated from university with cyber security. I have passion and dream of being a engineer-like job, in terms of creating and making things functional. I enjoy video games, from YuGiOh to Dota2, from Baba is you to Florence... I also enjoy reading random topic I found interesting online and explore it.
 
 ### My story
 
